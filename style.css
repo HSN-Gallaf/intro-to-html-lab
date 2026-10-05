@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(68, 68, 68);
+    border: solid white 1px;
+    text-align: center;
+    color: white;
+}
+
+.footer-nav {
+    color: green;
+}
+
+#nav-items {
+    text-align: left;
+}
+
+#about-a-tag {
+    text-decoration: none;
+    color: white;
+}
+
+#resume-a-tag {
+    color: green;
+}
